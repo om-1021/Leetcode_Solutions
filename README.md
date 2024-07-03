@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/om-1021/Leetcode_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/om-1021/Leetcode_Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
