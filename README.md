@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/om-1021/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/om-1021/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/om-1021/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/om-1021/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/om-1021/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/om-1021/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/om-1021/Leetcode_Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
