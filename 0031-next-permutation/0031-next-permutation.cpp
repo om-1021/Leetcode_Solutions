@@ -23,7 +23,7 @@ public:
                 }
             }
         // sorting the remaining the array to get the minimum value 
-        sort(nums.begin()+index+1,nums.end());
+        reverse(nums.begin()+index+1,nums.end());
         }
         else
         // if no break point is found that means its the largest permutation and next permutation will be the smallest one
