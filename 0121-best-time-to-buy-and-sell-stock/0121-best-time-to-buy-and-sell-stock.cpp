@@ -1,9 +1,8 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        // if(prices.size() <=1){
-        //     return 0;
-        // }
+       // take a variable mini which will store the minimum element
+       // take a variable max_profit which will store the max profit
         int mini = INT_MAX;
         int max_profit = 0;
         for(int i=0;i<prices.size();i++){
