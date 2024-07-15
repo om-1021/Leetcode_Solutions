@@ -16,6 +16,7 @@ public:
             for (int j = i + 1; j < n; j++) {
                 if (arr[j][0] <= end)
                     end = max(arr[j][1], end);
+                else break;
             }
             ans.push_back({start, end});
         }
