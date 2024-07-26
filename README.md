@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/om-1021/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/om-1021/Leetcode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/om-1021/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/om-1021/Leetcode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
