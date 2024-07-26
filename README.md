@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/om-1021/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0326-power-of-three](https://github.com/om-1021/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/om-1021/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
