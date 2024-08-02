@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/om-1021/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/om-1021/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/om-1021/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
