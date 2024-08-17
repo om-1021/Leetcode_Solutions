@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/om-1021/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/om-1021/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/om-1021/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/om-1021/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/om-1021/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/om-1021/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/om-1021/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/om-1021/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/om-1021/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
