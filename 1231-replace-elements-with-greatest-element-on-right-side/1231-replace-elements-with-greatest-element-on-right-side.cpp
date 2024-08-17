@@ -1,15 +1,23 @@
 class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
-        for(int i=0;i<arr.size()-1;i++){
-            int curr_max = arr[i+1];
-            for(int j=i+2;j<arr.size();j++){                
-                curr_max = max(curr_max,arr[j]);
-            }
-            arr[i]=curr_max;
+        if(arr.size()<=1){
+            return {-1};
         }
-        arr[arr.size()-1] = -1;
+        int n = arr.size();
+        int curr_max = arr[n-1] > arr[n-2] ? arr[n-1] : arr[n-2];
+        arr[n-2] = arr[n-1];
+        arr[n-1] = -1;
+        for( int i= n-3;i>=0;i--){
+            if(arr[i] > curr_max){
+                int temp = arr[i];
+                arr[i] = curr_max;
+                curr_max = temp;
+            }
+            else 
+            arr[i] = curr_max;
+        }
         return arr;
-        
+               
     }
 };
