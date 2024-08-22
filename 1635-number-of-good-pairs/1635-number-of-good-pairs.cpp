@@ -2,14 +2,19 @@ class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
         int count = 0;
+        unordered_map<int, int> umap;
+        for (int i = 0; i < nums.size(); i++) {
+            umap[nums[i]]++;
+        }
 
-        for(int i=0;i<nums.size()-1;i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(nums[i] == nums[j])
-                count++;
-            }
+        for (auto x : umap) {
+            int val = x.second;
+            umap[x.first] = val * (val - 1) / 2;
+        }
+
+        for (auto x : umap) {
+            count += x.second;
         }
         return count;
-        
     }
 };
