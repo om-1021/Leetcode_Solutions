@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/om-1021/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/om-1021/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/om-1021/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/om-1021/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0965-unique-email-addresses](https://github.com/om-1021/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/om-1021/Leetcode_Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/om-1021/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
