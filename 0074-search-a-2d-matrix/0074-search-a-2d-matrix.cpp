@@ -9,15 +9,33 @@ public:
         if(target < vec[0][0] or target>vec[row-1][col-1])
             return false;
         
-        while(start_row<row and start_col>=0)
-        {
-            if(vec[start_row][start_col]==target)
-                return true;
+        // while(start_row<row and start_col>=0)
+        // {
+        //     if(vec[start_row][start_col]==target)
+        //         return true;
             
-            else if(target < vec[start_row][start_col])
-                  start_col--;
+        //     else if(target < vec[start_row][start_col])
+        //           start_col--;
+        //     else
+        //         start_row++;
+        // }
+
+        int low = 0;
+        int high  = row * col;
+
+        while(low<=high){
+
+            int mid = (low + high)/2;
+            int rowReal = mid / col ;
+            int colReal = mid % col;
+            if(vec[rowReal][colReal] == target)
+            return true;
+
+            if(target < vec[rowReal][colReal] ){
+                high = mid -1;
+            }
             else
-                start_row++;
+            low = mid+1;
         }
         return false;
     }
