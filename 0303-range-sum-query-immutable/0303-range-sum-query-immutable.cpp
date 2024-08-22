@@ -1,12 +1,12 @@
 class NumArray {
 public:
-    vector<int> vec;
+ 
     vector<int> prefixSum;
     NumArray(vector<int>& nums) {
         prefixSum.resize(nums.size());
         int sum = 0;
         for (int i = 0; i < nums.size(); i++) {
-            this->vec = nums;
+            
             sum += nums[i];
             this->prefixSum[i] = sum;
         }
