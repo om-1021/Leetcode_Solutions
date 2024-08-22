@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/om-1021/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/om-1021/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/om-1021/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/om-1021/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/om-1021/Leetcode_Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
