@@ -4,7 +4,7 @@ public:
 
         unordered_map<char, string> umapD1;
         unordered_map<string, char> umapD2;
-        s +=' ';
+        s +=' ';// to separate the last word;
 
         vector<string> vec;
         string temp = "";
