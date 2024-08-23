@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/om-1021/Leetcode_Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1547-destination-city](https://github.com/om-1021/Leetcode_Solutions/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/om-1021/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/om-1021/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/om-1021/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Math
 |  |
 | ------- |
