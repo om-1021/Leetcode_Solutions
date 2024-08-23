@@ -8,6 +8,7 @@ public:
         umap.insert(cords);
 
         for (int i = 0; i < path.size(); i++) {
+            int sizeBefore = umap.size();
             
             if (path[i] == 'N') {
                 cords.second += 1;
@@ -22,11 +23,15 @@ public:
                 cords.first -= 1;
                 
             }
-            if(umap.find(cords) == umap.end()){
-                umap.insert(cords);
-            }
-            else
+            umap.insert(cords);
+            int sizeAfter = umap.size();
+            if(sizeBefore == sizeAfter)
             return true;
+            // if(umap.find(cords) == umap.end()){
+            //     umap.insert(cords);
+            // }
+            // else
+            // return true;
 
 
         }
