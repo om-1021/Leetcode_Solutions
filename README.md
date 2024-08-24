@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/om-1021/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/om-1021/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/om-1021/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/om-1021/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0932-monotonic-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/om-1021/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/om-1021/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0965-unique-email-addresses](https://github.com/om-1021/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/om-1021/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/om-1021/Leetcode_Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/om-1021/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/om-1021/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/om-1021/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/om-1021/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Math
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/om-1021/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/om-1021/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
