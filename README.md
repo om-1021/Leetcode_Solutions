@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/om-1021/Leetcode_Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1547-destination-city](https://github.com/om-1021/Leetcode_Solutions/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/om-1021/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/om-1021/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2195-time-needed-to-buy-tickets](https://github.com/om-1021/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/om-1021/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/om-1021/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/om-1021/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/om-1021/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Math
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/om-1021/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/om-1021/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/om-1021/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/om-1021/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
 | ------- |
