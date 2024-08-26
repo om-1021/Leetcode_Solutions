@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/om-1021/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2195-time-needed-to-buy-tickets](https://github.com/om-1021/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/om-1021/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/om-1021/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/om-1021/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/om-1021/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/om-1021/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
