@@ -21,13 +21,14 @@ public:
                 }
             }
 
+            if (left_idx != -1 || right_idx != -1 || left_idx != right_idx) {
                 unordered_set<char> temp;
                 for (int j = left_idx + 1; j < right_idx; j++) {
                     temp.insert(s[j]);
                 }
 
                 count += temp.size();
-            
+            }
         }
         return count;
     }
