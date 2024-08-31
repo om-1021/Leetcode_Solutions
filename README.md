@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/om-1021/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/om-1021/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/om-1021/Leetcode_Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/om-1021/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/om-1021/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/om-1021/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Counting
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/om-1021/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
