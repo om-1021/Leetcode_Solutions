@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/om-1021/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/om-1021/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/om-1021/Leetcode_Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/om-1021/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/om-1021/Leetcode_Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/om-1021/Leetcode_Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/om-1021/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/om-1021/Leetcode_Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1635-number-of-good-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/om-1021/Leetcode_Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Simulation
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/om-1021/Leetcode_Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/om-1021/Leetcode_Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/om-1021/Leetcode_Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Stack
 |  |
 | ------- |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/om-1021/Leetcode_Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/om-1021/Leetcode_Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
