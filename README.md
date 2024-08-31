@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/om-1021/Leetcode_Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/om-1021/Leetcode_Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/om-1021/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/om-1021/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/om-1021/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/om-1021/Leetcode_Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/om-1021/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Recursion
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/om-1021/Leetcode_Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/om-1021/Leetcode_Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/om-1021/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/om-1021/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/om-1021/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/om-1021/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Design
 |  |
 | ------- |
