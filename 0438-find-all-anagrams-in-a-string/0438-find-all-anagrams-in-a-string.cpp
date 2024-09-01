@@ -10,6 +10,9 @@ public:
         unordered_map<char,int> sCount;
         vector<int> result;
         
+        // Sliding Window 
+
+
         for(int i=0;i<p.length();i++){
             pCount[p[i]]++;
             sCount[s[i]]++;
@@ -32,8 +35,6 @@ public:
 
         }
         return result;
-
-
 
         // max p map size = number of unique char in p at worst 26 abcdefghijklmnopqrstuvwxyz
         //so TC: O(26 * n) or O(n)
