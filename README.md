@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/om-1021/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/om-1021/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/om-1021/Leetcode_Solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/om-1021/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/om-1021/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/om-1021/Leetcode_Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0965-unique-email-addresses](https://github.com/om-1021/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/om-1021/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
