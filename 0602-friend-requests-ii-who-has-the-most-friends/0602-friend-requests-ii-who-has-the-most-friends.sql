@@ -4,7 +4,7 @@ SELECT id,COUNT(*) AS num
       (  
          SELECT requester_id AS id FROM RequestAccepted
 
-        UNION ALL # it gives duplicates also
+            UNION ALL # it gives duplicates also
 
         SELECT accepter_id AS id FROM RequestAccepted
        ) 
