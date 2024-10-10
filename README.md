@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/om-1021/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/om-1021/Leetcode_Solutions/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/om-1021/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
+| [1002-maximum-width-ramp](https://github.com/om-1021/Leetcode_Solutions/tree/master/1002-maximum-width-ramp) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/om-1021/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/om-1021/Leetcode_Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1547-destination-city](https://github.com/om-1021/Leetcode_Solutions/tree/master/1547-destination-city) |
@@ -254,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/om-1021/Leetcode_Solutions/tree/master/1002-maximum-width-ramp) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/om-1021/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/om-1021/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/om-1021/Leetcode_Solutions/tree/master/1002-maximum-width-ramp) |
 ## Prefix Sum
 |  |
 | ------- |
