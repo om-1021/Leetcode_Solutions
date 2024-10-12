@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/om-1021/Leetcode_Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/om-1021/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/om-1021/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/om-1021/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/om-1021/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/om-1021/Leetcode_Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/om-1021/Leetcode_Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/om-1021/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/om-1021/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/om-1021/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/om-1021/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
@@ -298,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/om-1021/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
