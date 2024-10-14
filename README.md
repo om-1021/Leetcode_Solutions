@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/om-1021/Leetcode_Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/om-1021/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/om-1021/Leetcode_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/om-1021/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/om-1021/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/om-1021/Leetcode_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -307,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/om-1021/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/om-1021/Leetcode_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
